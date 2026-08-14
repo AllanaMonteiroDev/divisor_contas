@@ -16,4 +16,4 @@ Pede o valor total da conta e quantas pessoas vão dividir, calcula quanto cada 
 
 ## Sobre a trilha
 
-Tô estudando Python do zero e, a cada conceito novo, faço uma leva de exercícios e um projeto pequeno pra fixar — mesmo que o projeto seja bem simples. Esse é o do módulo de operadores.
+Tô estudando Python do zero e, a cada conceito novo, faço uma leva de exercícios e um projeto pequeno pra fixar mesmo que o projeto seja bem simples. Esse é o do módulo de operadores.
